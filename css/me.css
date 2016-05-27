@@ -7,23 +7,23 @@ body{
 	margin-right:5%;
 }
 
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-li{
+nav ul li{
 	float: left;
 }
 
-a{
+nav ul a{
 	display: block;
 	padding: 8px;
 	background: #dddddd;
 	text-decoration: none ;
 }
 
-a:hover{
+nav ul a:hover{
 	background-color:purple ;
 	color: white ;
 }
