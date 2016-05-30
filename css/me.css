@@ -25,4 +25,12 @@ nav ul a:hover{
 h1 {
   clear: left;
   padding-top: 1.5em;
+  display: block;
+   font-size: 2em;
+   -webkit-margin-before: 0.67em;
+   -webkit-margin-after: 0.67em;
+   -webkit-margin-start: 0px;
+   -webkit-margin-end: 0px;
+   font-weight: bold;
 }
+
