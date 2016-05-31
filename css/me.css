@@ -64,6 +64,19 @@ h1 {
 }
 
 	
+.center2{
+  display: block;
+  margin: 0 auto;
+  width: 50em
+}
+
+.FontSize{
+   font-size: 150%;
+   border-style: dotted ;
+   background-color: green;
+   text-align: center;
+}
+
 	
 	
 	
