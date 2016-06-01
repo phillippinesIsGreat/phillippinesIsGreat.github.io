@@ -31,6 +31,8 @@ h1 {
     background-color: green;
     border-style: solid;
     border-width: medium;
+	border-radius: 10px;
+	background: #BADA55;
   
 }
 
@@ -51,6 +53,8 @@ h1 {
 
 .bordered {
   border-style: solid;
+  border-radius: 10px;
+  background: #BADA55;
 }
 
 .center {
